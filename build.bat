@@ -1,0 +1,1 @@
+pyinstaller manage.py --name server --noconfirm
