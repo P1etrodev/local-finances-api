@@ -8,7 +8,7 @@ You can use `C++ with Qt`, `Python with TKinter`, `NodeJS with Angular` or any o
 
 ## Deploy
 
-To host and deploy the API, run `python manage.py runserver`.
+To host and deploy the API, run `python manage.py runserver` or execute `server.exe` at the `/dist/server` folder.
 
 ## Endpoints
 
