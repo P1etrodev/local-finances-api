@@ -20,7 +20,7 @@ Take a look to the [auto-generated docs](http://localhost:8000/docs) to get some
 
 This project was originally meant to be ran and accessed locally, hosted from an executable file.
 
-You can build the executable by running `pyinstaller manage.py --name server --noconfirm` or executing the [build.bat](/build.bat) script from the terminal. After the building process, you'll end with 2 folders, the final product is located at `/dist`.
+You can build the executable by running `pyinstaller manage.py --name server --noconfirm` or executing the [build.bat](/build.bat) script from the terminal. After the building process, you'll end up with 2 folders, the final product is located at `/dist`.
 
 ## Storage
 
